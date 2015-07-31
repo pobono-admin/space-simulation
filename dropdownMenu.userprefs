@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SetPivot1.cs">
+    <Files>
+      <File FileName="Assets/SetPivot.cs" Line="1" Column="1" />
+      <File FileName="Assets/rotateObj_z.cs" Line="1" Column="1" />
+      <File FileName="Assets/rotateObj_x.cs" Line="40" Column="6" />
+      <File FileName="Assets/movingArea.cs" Line="1" Column="1" />
+      <File FileName="Assets/mouseOrbit.cs" Line="1" Column="1" />
+      <File FileName="Assets/rotateObj_y.cs" Line="1" Column="1" />
+      <File FileName="Assets/SetPivot1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
